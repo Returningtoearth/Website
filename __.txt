@@ -1,0 +1,34 @@
+/* Card */
+
+.card .card-description {
+	padding:8px;
+}
+
+
+
+
+
+
+
+<a href="#">
+					<h2 class="section-heading">All Blogs</h2>
+				</a>
+				
+				<section>
+					<div class="card">
+						<div class="card-image">
+							<a href="#">
+								<img src="img/1" alt="Card Image">
+							</a>
+						</div>
+						<div class="card-description">
+							<a href="#">
+								<h3>The Blog Title</h3>
+							</a>
+							<p>
+								Lorem ipsum dolor sit amet, ius te reque prompta qualisque, principes temporibus id per. Nec fugit quaeque et, integre sanctus nec eu, no clita putant his. Nam cu eros facete.
+							</p>
+							<a href="#" class="btn-readmore">Read more</a>
+						</div>	
+					</div>	
+				</section>
